@@ -1,5 +1,7 @@
 # Tarjimha
 
+![Tarjimha Homepage](homepage.png)
+
 Tarjimha is a real-time translation web application that allows users to speak or type a message, translate it into another language, hear the translated result aloud, and view ASL fingerspelling support.
 
 ## Features
